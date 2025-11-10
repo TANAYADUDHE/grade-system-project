@@ -1,1 +1,1 @@
-Grade system project.
+This is the Grade system project.
